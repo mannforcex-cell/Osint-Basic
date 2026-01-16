@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="[https://files.catbox.moe/yxbwgy.jpg](https://pomf2.lain.la/f/zzbhum4s.jpg)" alt="Osint-Basic Banner" width="100%">
-</div>
+![Osint Banner](https://files.catbox.moe/yxbwgy.jpg)
 
 # 🔍 Osint-Basic 
 > **Automated Information Gathering Tool for Security Researchers**
