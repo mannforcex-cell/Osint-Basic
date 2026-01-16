@@ -11,4 +11,4 @@ pip install Holmes
 pkg install instaloader
 
 (start) 
-python3 
+python3 start.py
